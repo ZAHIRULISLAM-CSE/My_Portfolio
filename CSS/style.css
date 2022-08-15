@@ -1,0 +1,128 @@
+
+.name_title {
+    color: rgb(255, 133, 19);
+}
+
+.title {
+    line-height: 1.2;
+    font-size: 3rem;
+}
+
+.a {
+    font-family: 'Oxygen', sans-serif;
+    line-height: 1.6;
+}
+.top_banner{
+    top: 0px;
+}
+
+#first_image {
+
+    height: 450px;
+    width: 450px;
+    right: 0px;
+}
+
+.left{
+    width: 100px;
+    height: 600px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+}
+
+.center {
+    font-family: 'Oxygen', sans-serif;
+    width: 50%;
+    height: 500px;
+    position: absolute;
+    left: 100px;
+}
+
+.right {
+    width: 500px;
+    height: 500px;
+    right: 0px;
+    top: 50px;
+    position: absolute;
+}
+.button {
+    background-color: #f54712;
+    border: none;
+    color: white;
+    padding: 15px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+.left_2nd{
+    height: 500px;
+    width: 500px;
+    position:absolute;
+    top: 600px;
+}
+.center_2nd{
+    position:absolute;
+    width: 600px;
+    top: 600px;
+    right:0px;
+    padding-right: 100px;
+
+}
+.right_2nd{
+    position:absolute;
+    width: 100px;
+    top: 800px;
+    right:0px;
+
+}
+.exp{
+    position:absolute;
+    top: 1100px;
+}
+.exp_1{
+    position: absolute;
+    top: 1175px;
+    left: 100px;
+}
+.text{
+    font-family: 'Oxygen', sans-serif;
+    color: rgb(255, 133, 19);
+
+}
+.text1{
+    line-height: 1.2;
+    font-family: 'Oxygen', sans-serif;
+    width: 500px;
+    
+}
+.tag1{
+    position: absolute;
+    top: 1175px;
+    left: 800px;
+
+}
+.shadow{
+    padding: 30px;
+    box-shadow: 5px 10px 40px gray;
+}
+#linear{
+    border-left: 7px solid;
+    border-color: rgb(13, 170, 110);
+}
+
+#abc{
+    border-left: 7px solid;
+    border-color: royalblue;
+
+}
+.xyz{
+    position: absolute;
+    top: 1500px;
+    left: 500px;
+    color: rgb(255, 19, 19);
+}
